@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jingyi Xu</h1>
-<h3 align="center">Full-stack developer</h3>
-<div id="header" align="center">
+<h1 align="left">Hi 👋, I'm Jingyi Xu</h1>
+
+<div id="header" align="left">
   <img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e479pg19fpgvjnf105e9b34hexgswzsags41c5zw9pg&rid=giphy.gif&ct=s" width="300"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuclaire0234&label=Profile%20views&color=0e75b6&style=flat" alt="xuclaire0234" /> </p>
 
-- 🌱 I’m currently learning **ML/AI, Computer vision**
+- 🌱 I’m currently learning **ML/AI and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://jx-portfolio.vercel.app/](https://jx-portfolio.vercel.app/)
 
 - 📫 How to reach me **jx15@ualberta.ca/xuclaire0234@gmail.com**
 
-- ⚡ Fun fact **I am interested in 3D modelling \& fine arts, and devoted to the combination with CS concepts**
+- ⚡ Fun fact **I am interested in 3D Modelling \& Fine Arts, and devoted to the combination with CS concepts**
 
 
 
