@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jingyi Xu</h1>
 <h3 align="center">Full-stack developer</h3>
-
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e479pg19fpgvjnf105e9b34hexgswzsags41c5zw9pg&rid=giphy.gif&ct=s" width="300"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuclaire0234&label=Profile%20views&color=0e75b6&style=flat" alt="xuclaire0234" /> </p>
 
 - 🔭 I’m currently working on [project 1](link)
