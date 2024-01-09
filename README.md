@@ -5,25 +5,13 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuclaire0234&label=Profile%20views&color=0e75b6&style=flat" alt="xuclaire0234" /> </p>
 
-- 🔭 I’m currently working on [project 1](link)
-
 - 🌱 I’m currently learning **ML/AI, Computer vision**
-
-- 👯 I’m looking to collaborate on [project 2](link)
-
-- 🤝 I’m looking for help with [project 3](link)
 
 - 👨‍💻 All of my projects are available at [https://jx-portfolio.vercel.app/](https://jx-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [none](none)
-
-- 💬 Ask me about **some thing**
-
 - 📫 How to reach me **jx15@ualberta.ca/xuclaire0234@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
-
-- ⚡ Fun fact **something else**
+- ⚡ Fun fact **I am interested in 3D modelling \& fine arts, and devoted to the combination with CS concepts**
 
 
 
