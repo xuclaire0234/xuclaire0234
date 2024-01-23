@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **ML/AI and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://jx-portfolio.vercel.app/](https://jx-portfolio.vercel.app/)
-
 - 📫 How to reach me **jx15@ualberta.ca/xuclaire0234@gmail.com**
 
 - ⚡ Fun fact **I am interested in 3D Modelling \& Fine Arts, and devoted to the combination with CS concepts**
