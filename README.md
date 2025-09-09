@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML/AI and Computer Vision**
 
-- 📫 How to reach me **jx15@ualberta.ca/xuclaire0234@gmail.com**
+- 📫 How to reach me **xuclaire0234@gmail.com**
 
 - ⚡ Fun fact **I am interested in 3D Modelling \& Fine Arts, and devoted to the combination with CS concepts**
 
